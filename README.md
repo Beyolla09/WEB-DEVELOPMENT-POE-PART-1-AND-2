@@ -113,3 +113,28 @@ Year: 2026
 ## Conclusion
 Bella Bloom Florist provides a professional online presence where customers can view floral products, learn about the business and submit an enquiry and find contact information. The project has been structured so that additional functionality can be added in future parts.
 
+## REFERENCES 
+Unsplash (n.d.) Flower photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1490750967868-88aa4486c946
+(Accessed: 17 September 2026).
+
+Unsplash (n.d.) Pink flower photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1526047932273-341f2a7631f9
+(Accessed: 17 September 2026).
+
+Unsplash (n.d.) White flower photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1561181286-d3fee7d55364
+(Accessed: 17 September 2026).
+
+Unsplash (n.d.) Colourful flower photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1455587734955-081b22074882
+(Accessed: 17 September 2026).
+
+Unsplash (n.d.) Wedding flower photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1519225421980-715cb0215aed
+(Accessed: 17 September 2026).
+
+Unsplash (n.d.) Bouquet photograph [Online image]. Available at:
+https://images.unsplash.com/photo-1507504031003-b417219a0fde
+(Accessed: 17 September 2026).
+
